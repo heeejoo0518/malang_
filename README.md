@@ -25,7 +25,7 @@
 
 ### 3. UCC 및 프로젝트 설명서
 
-[UCC 링크](https://youtu.be/BCH0hkjmk6o)
+[UCC 링크](https://youtu.be/0Mf096r2h2s)
 
 [프로젝트 설명서](https://ruddy-hide-9de.notion.site/101979e1877942fdaf0be5b9df4753c5)
 
