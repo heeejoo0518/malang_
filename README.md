@@ -18,7 +18,7 @@
 3. 아이들을 위한 전체 TTS
 
 ### 3. UCC 및 프로젝트 설명서
-[UCC 링크](https://youtu.be/0Mf096r2h2s)
+[UCC 링크](https://youtu.be/0Mf096r2h2s)<br>
 [게임 설명서](https://ruddy-hide-9de.notion.site/101979e1877942fdaf0be5b9df4753c5)
 
 ### 4. 프로젝트 구조
